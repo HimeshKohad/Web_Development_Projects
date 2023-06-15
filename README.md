@@ -13,12 +13,13 @@
 
 <hr>
 
-***Basic***
+***Beginner***
 
 | Sr. No. | Name | Resources | Link |
 |------|------|------|------|
 |1.|Cafe Menu|[Cafe Menu (Resources)](https://github.com/HimeshKohad/Cafe-Menu)|[🔗 Link : Cafe Menu](https://himeshkohad.github.io/Cafe-Menu/)|
 |2.|City Skyline|[City Skyline (Resources)](https://github.com/HimeshKohad/City-Skyline)|[🔗 Link : City skyline](https://himeshkohad.github.io/City-Skyline/)|
+|3.|Error 404|[Error 404 Page (Resources)](https://github.com/HimeshKohad/Error-404-Page)|[🔗 Link : Cafe Menu](https://himeshkohad.github.io/Error-404-Page/)|
 
 <hr>
 
